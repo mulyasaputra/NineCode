@@ -8,8 +8,7 @@
 
 ## Link
 
-Unduh repository ke dalam komputer menggunakan perintah `git clone`. Url
-repository dapat dilihat di dalam repository yang diinginkan.
+Download kumpulan project youtube Appsventory X NineCode
 
 #### Video Youtube
 
