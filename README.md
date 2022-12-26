@@ -1,10 +1,14 @@
 # ojo lali sowan
 
-- [InSketch](https://mulyasaputra.github.io/)
-- [Personal Website](https://mulyasaputra.github.io/mulyasaputra)
-- [Youtube](https://www.youtube.com/channel/UCcJCTC9nMe7AyhJIda4Kc3A)
-- [Instagram](https://www.instagram.com/appsventory/)
-- [CardLink](https://mulyasaputra.github.io/visite/)
+<a target="_blank" href="https://www.instagram.com/appsventory/"><img align="left" alt="Instagram" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/instagram.png" /></a>
+<a target="_blank" href="https://www.tiktok.com/@appsventory"><img align="left" alt="TikTok" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/tiktok.png" /></a>
+<a target="_blank" href="https://mulyasaputra.github.io/"><img align="left" alt="Portofolio" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/web.png" /></a>
+<a target="_blank" href="https://dribbble.com/Appsventory/"><img align="left" alt="dribbble" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dribbble.png" /></a>
+<a target="_blank" href="https://id.pinterest.com/Appsventory/"><img align="left" alt="pinterest" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/pinterest.png" /></a>
+<a target="_blank" href="https://www.dailymotion.com/inicaraku_official"><img align="left" alt="dailymotion" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dailymotion.png" /></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCcJCTC9nMe7AyhJIda4Kc3A"><img align="left" alt="Youtube" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/youtube.png" /></a>
+
+<br />
 
 ## Link
 
@@ -18,6 +22,7 @@ Download kumpulan project youtube Appsventory X NineCode
 - [Parallax CSS](https://youtu.be/LTiVS3yaDFY)
 - [SVG Animation With Text](https://youtu.be/kQjIQxK3M1o)
 - [GDrive Generator](https://youtu.be/w9mixQgJxNM)
+- [Firework Canvas HTML5](https://youtu.be/LU3FIamxNv0)
 
 #### Download File Zip
 
@@ -27,6 +32,7 @@ Download kumpulan project youtube Appsventory X NineCode
 - [Parallax CSS](https://drive.google.com/drive/folders/1KgwW6NMvpMFjIpWPEz36m-Z7kFLsaffS?usp=share_link)
 - [SVG Animation With Text](https://drive.google.com/drive/folders/1KXVjs9J6FxPm5QGtKdQWhfmyAawejhlF?usp=share_link)
 - [GDrive Generator](https://drive.google.com/drive/folders/1MMoVJXWiaUVjB6-5yYIczIpN0mKRktF_?usp=share_link)
+- [Firework Canvas HTML5](https://drive.google.com/drive/folders/1G7g4AzKbnpCZFxzGM9UyfZSX2uX6U1SF?usp=share_link)
 
 #
 
