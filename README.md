@@ -25,18 +25,12 @@ Download kumpulan project youtube Appsventory X NineCode
 - [Firework Canvas HTML5](https://youtu.be/LU3FIamxNv0)
 - [LoginUI Designs](https://youtu.be/ixOqboW5ovY)
 - [Calendar with JavaScript](https://youtu.be/HAJkKiud2Ts)
+- [CSS Loading Animations](https://youtu.be/bnlyivky9co)
+- [Calculator Using HTML](https://youtu.be/204dPU1TSCE)
 
 #### Download File Zip
 
-- [Form Contact](https://drive.google.com/drive/folders/1NtaImFa1LogcoPWMepBSJBmVBoZVv_eL?usp=sharing)
-- [Creative Menu Hover](https://drive.google.com/drive/folders/1yYOtgqYWiC3GDrOGL6xeGeJ_M8Rjx0RU?usp=sharing)
-- [Button Hover Animation](https://drive.google.com/drive/folders/1SSSjSYezVtOcPw5XSlstCWLgwLjCp-r-?usp=sharing)
-- [Parallax CSS](https://drive.google.com/drive/folders/1KgwW6NMvpMFjIpWPEz36m-Z7kFLsaffS?usp=share_link)
-- [SVG Animation With Text](https://drive.google.com/drive/folders/1KXVjs9J6FxPm5QGtKdQWhfmyAawejhlF?usp=share_link)
-- [GDrive Generator](https://drive.google.com/drive/folders/1MMoVJXWiaUVjB6-5yYIczIpN0mKRktF_?usp=share_link)
-- [Firework Canvas HTML5](https://drive.google.com/drive/folders/1G7g4AzKbnpCZFxzGM9UyfZSX2uX6U1SF?usp=share_link)
-- [LoginUI Designs](https://drive.google.com/drive/folders/1EOag92mhsGrukqlO0urpJGJU1a94fhBt?usp=share_link)
-- [Calendar with JavaScript](https://drive.google.com/drive/folders/1s4dvWmTDyjKz5jOKZEOYwI8V5rkgx4un?usp=sharing)
+- [Google Drive](https://drive.google.com/drive/folders/1NtaImFa1LogcoPWMepBSJBmVBoZVv_eL?usp=sharing)
 
 #
 
